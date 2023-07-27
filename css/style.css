@@ -1,0 +1,21 @@
+
+* {
+margin: 0.5rem;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(236, 236, 62, 0.356);
+}
+
+footer {
+    text-align: center ;
+}
+
+.video {
+
+    justify-content: center;
+    text-align: center;
+
+}
+
